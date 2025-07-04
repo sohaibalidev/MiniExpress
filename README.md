@@ -7,7 +7,7 @@ A minimal custom Express.js-like framework built using Node.js core modules — 
 ## Features
 
 - Basic REST methods: `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
-- Automatic query parsing: `/query?key=value`
+- Automatic query parsing: `/query?key=value` 
 - Built-in helpers:
   - `res.send(data)`
   - `res.json(obj)`
