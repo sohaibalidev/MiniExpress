@@ -27,7 +27,7 @@ A minimal custom Express.js-like framework built using Node.js core modules — 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/mini-express.git
+git clone https://github.com/sohaibalidev/MiniExpress.git
 cd mini-express
 ```
 
