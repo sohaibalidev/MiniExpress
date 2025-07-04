@@ -1,7 +1,7 @@
 class MiniExpress {
     #http = require('http')
-    #routes;
     #notfoundfunc;
+    #routes;
 
     constructor() {
         this.#routes = {};
